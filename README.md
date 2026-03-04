@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋  Hi，我是翎！
+SECTL 团队的一员（最低技术力qwq）
+
 
 <!--
 **ling-qwqawa/ling-qwqawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
